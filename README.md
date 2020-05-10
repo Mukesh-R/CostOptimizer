@@ -1,9 +1,9 @@
 # CostOptimizer
 
 ## Usage
-For selecting default config path `config`
+For selecting default config path `config`, from src directory
 ```
-from src.cost_optimizer import CostOptimizer
+from cost_optimizer import CostOptimizer
 co = CostOptimizer()
 print(co.optimize(<capacity>,<hours>)
 ```
