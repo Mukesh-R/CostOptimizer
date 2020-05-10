@@ -16,6 +16,6 @@ print(co.optimize(<capacity>,<hours>)
 
 ## Test
 Get into tests directory and run
-```
+```sh
 pytest cost_optimizer_test.py
 ```
